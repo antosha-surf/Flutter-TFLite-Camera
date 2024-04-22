@@ -2,6 +2,8 @@
 
 A native TFLite ops plugin for Flutter. Integration is as simple as it gets - just add it as a dep and you are done.
 
+This project builds on top of [camera](https://pub.dev/packages/camera) plugin for Flutter. It adds direct communication between camera and TFLite, passing only the results to the Flutter side. This releives the user of the burden of 1) getting image data from camera 2) processing this data to expected format 3) sending processed data to TFLite.
+
 ## FVM
 
 Use fvm. Currently `3.19.5`
