@@ -1,4 +1,4 @@
-# tflite
+# TFFlutter
 
 A native TFLite ops plugin for Flutter. Integration is as simple as it gets - just add it as a dep and you are done.
 
