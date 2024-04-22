@@ -1,16 +1,16 @@
 # tflite
 
-A new Flutter project.
+A native TFLite ops plugin for Flutter. Integration is as simple as it gets - just add it as a dep and you are done.
 
-## Getting Started
+## FVM
 
-This project is a starting point for a Flutter application.
+Use fvm. Currently `3.19.5`
 
-A few resources to get you started if this is your first Flutter project:
+## Makefile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Use make. It makes your life a heck of a lot easier.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Todo's
+
+- Variability for different classifier models - pass dimensions, expected outputs, etc.
+- Make builds lighter - maybe cut libraries depended on?
