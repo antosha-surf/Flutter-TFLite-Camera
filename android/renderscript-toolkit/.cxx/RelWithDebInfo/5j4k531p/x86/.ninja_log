@@ -1,0 +1,19 @@
+# ninja log v5
+0	233	1713277378	CMakeFiles/cpufeatures.dir/Users/nazarov/Library/Android/sdk/ndk/23.1.7779620/sources/android/cpufeatures/cpu-features.c.o	47c369c615641aff
+234	362	1713277378	libcpufeatures.a	3c83a266f342a227
+4	725	1713277379	CMakeFiles/renderscript-toolkit.dir/Lut.cpp.o	8829d73aa222e7f4
+6	751	1713277379	CMakeFiles/renderscript-toolkit.dir/Lut3d.cpp.o	b18c25e899eaeeac
+4	771	1713277379	CMakeFiles/renderscript-toolkit.dir/JniEntryPoints.cpp.o	b9732c05b3d5a4ad
+1	828	1713277379	CMakeFiles/renderscript-toolkit.dir/ColorMatrix.cpp.o	83bdb7564752dee2
+0	840	1713277379	CMakeFiles/renderscript-toolkit.dir/Blend.cpp.o	c00b2d8efa7b4671
+1	872	1713277379	CMakeFiles/renderscript-toolkit.dir/Convolve3x3.cpp.o	ee8afbefadc294ac
+2	902	1713277379	CMakeFiles/renderscript-toolkit.dir/Convolve5x5.cpp.o	4344677bc70662f
+3	1011	1713277379	CMakeFiles/renderscript-toolkit.dir/Histogram.cpp.o	48ca5759817dc7a1
+771	1064	1713277379	CMakeFiles/renderscript-toolkit.dir/Utils.cpp.o	c0378e27b2451df2
+362	1066	1713277379	CMakeFiles/renderscript-toolkit.dir/Resize.cpp.o	cc065d7b20b066a6
+1	1120	1713277379	CMakeFiles/renderscript-toolkit.dir/Blur.cpp.o	ebff25ebb9ada79e
+726	1129	1713277379	CMakeFiles/renderscript-toolkit.dir/RenderScriptToolkit.cpp.o	737bcf449eff7f1c
+828	1236	1713277379	CMakeFiles/renderscript-toolkit.dir/YuvToRgb.cpp.o	127cde036eb19188
+751	1342	1713277379	CMakeFiles/renderscript-toolkit.dir/TaskProcessor.cpp.o	a51efb9b64cb4854
+1342	1442	1713277379	/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/x86/librenderscript-toolkit.so	ca1b348a3c3d3f5c
+1	112	1713278485	/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/x86/librenderscript-toolkit.so	ca1b348a3c3d3f5c

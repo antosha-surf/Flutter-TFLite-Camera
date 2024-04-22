@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "cameraViewCameraResolutionPreset": "Пресет разрешения камеры",
+  "cameraViewDetectionFPSTitle": "FPS детекций",
+  "cameraViewDetectionLatencyTitle": "Задержка детекций",
+  "cameraViewInitializingModel": "Инициализация модели",
+  "cameraViewStartButtonTitle": "Старт",
+  "commonAppName": "TFLite",
+  "commonMillisecondsAbbr": "мс",
+  "imageInferenceScreenTitle": "Результаты классификации",
+  "languageName": "Russian"
+}

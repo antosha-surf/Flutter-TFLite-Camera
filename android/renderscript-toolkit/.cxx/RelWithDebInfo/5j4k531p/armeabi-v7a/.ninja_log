@@ -1,0 +1,26 @@
+# ninja log v5
+0	477	1713277376	CMakeFiles/cpufeatures.dir/Users/nazarov/Library/Android/sdk/ndk/23.1.7779620/sources/android/cpufeatures/cpu-features.c.o	6f8e81d83234b7a
+478	608	1713277376	libcpufeatures.a	3c83a266f342a227
+3	826	1713277376	CMakeFiles/renderscript-toolkit.dir/JniEntryPoints.cpp.o	c5f444439d713a80
+3	856	1713277376	CMakeFiles/renderscript-toolkit.dir/Lut.cpp.o	22536a7552ef821a
+1	874	1713277376	CMakeFiles/renderscript-toolkit.dir/Blend.cpp.o	e171110b5c9513f2
+4	912	1713277376	CMakeFiles/renderscript-toolkit.dir/Lut3d.cpp.o	d4a2ac2b349f3b4f
+2	1067	1713277377	CMakeFiles/renderscript-toolkit.dir/Convolve5x5.cpp.o	80d8286c3bb396e3
+2	1073	1713277377	CMakeFiles/renderscript-toolkit.dir/Convolve3x3.cpp.o	8c2c510dba25757c
+874	1174	1713277377	CMakeFiles/renderscript-toolkit.dir/Utils.cpp.o	d4e1833c58a16d41
+2	1179	1713277377	CMakeFiles/renderscript-toolkit.dir/Histogram.cpp.o	f8ca74b283aacab
+1	1229	1713277377	CMakeFiles/renderscript-toolkit.dir/Blur.cpp.o	56155214785c922
+1068	1236	1713277377	CMakeFiles/renderscript-toolkit.dir/Blend_neon.S.o	c02921f86f618b29
+1073	1292	1713277377	CMakeFiles/renderscript-toolkit.dir/Blur_neon.S.o	b11c446b0d53dae9
+1174	1307	1713277377	CMakeFiles/renderscript-toolkit.dir/Convolve_neon.S.o	a6b20fdf496f619f
+1179	1316	1713277377	CMakeFiles/renderscript-toolkit.dir/ColorMatrix_neon.S.o	83e175286889307f
+1	1325	1713277377	CMakeFiles/renderscript-toolkit.dir/ColorMatrix.cpp.o	63386c67e3c23d83
+1229	1369	1713277377	CMakeFiles/renderscript-toolkit.dir/Lut3d_neon.S.o	93036788a6532ab8
+1237	1378	1713277377	CMakeFiles/renderscript-toolkit.dir/Resize_neon.S.o	dc50f5c9723c1320
+1292	1441	1713277377	CMakeFiles/renderscript-toolkit.dir/YuvToRgb_neon.S.o	fe6b361fdc15fdbd
+608	1472	1713277377	CMakeFiles/renderscript-toolkit.dir/Resize.cpp.o	ed6bd9f5155896fa
+826	1499	1713277377	CMakeFiles/renderscript-toolkit.dir/RenderScriptToolkit.cpp.o	1044d4168f78f6b
+912	1553	1713277377	CMakeFiles/renderscript-toolkit.dir/YuvToRgb.cpp.o	94bd186fdbbd193f
+856	1673	1713277377	CMakeFiles/renderscript-toolkit.dir/TaskProcessor.cpp.o	8ff6904d0d062d94
+1673	1772	1713277377	/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/armeabi-v7a/librenderscript-toolkit.so	f6c3b0671ffd75a3
+1	113	1713278485	/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/armeabi-v7a/librenderscript-toolkit.so	f6c3b0671ffd75a3

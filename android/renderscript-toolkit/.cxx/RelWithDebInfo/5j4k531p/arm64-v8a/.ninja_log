@@ -1,0 +1,26 @@
+# ninja log v5
+2	455	1713277372	CMakeFiles/renderscript-toolkit.dir/Blend_advsimd.S.o	84b716b881c0336f
+2	717	1713277373	CMakeFiles/cpufeatures.dir/Users/nazarov/Library/Android/sdk/ndk/23.1.7779620/sources/android/cpufeatures/cpu-features.c.o	f1a50267035d9d4f
+1	789	1713277373	CMakeFiles/renderscript-toolkit.dir/Utils.cpp.o	7bf029b01bd8d330
+718	903	1713277373	libcpufeatures.a	3c83a266f342a227
+1	1250	1713277373	CMakeFiles/renderscript-toolkit.dir/YuvToRgb.cpp.o	c6faf51a16463427
+455	1300	1713277373	CMakeFiles/renderscript-toolkit.dir/Lut.cpp.o	d859fb93b4afabf4
+2	1303	1713277373	CMakeFiles/renderscript-toolkit.dir/Blend.cpp.o	31a54c4d6ade8f47
+7	1326	1713277373	CMakeFiles/renderscript-toolkit.dir/Convolve3x3.cpp.o	d5046e6772b462cf
+5	1352	1713277373	CMakeFiles/renderscript-toolkit.dir/ColorMatrix.cpp.o	cd3888d784436167
+1352	1493	1713277373	CMakeFiles/renderscript-toolkit.dir/Lut3d_advsimd.S.o	61b2ed017e6b8e3f
+1326	1534	1713277373	CMakeFiles/renderscript-toolkit.dir/Blur_advsimd.S.o	13451817782dba8d
+10	1539	1713277373	CMakeFiles/renderscript-toolkit.dir/Histogram.cpp.o	c06110113b7e70b8
+8	1560	1713277373	CMakeFiles/renderscript-toolkit.dir/Convolve5x5.cpp.o	ba869408581e5600
+1534	1663	1713277374	CMakeFiles/renderscript-toolkit.dir/Convolve_advsimd.S.o	76cddfda41c74b3
+1539	1681	1713277374	CMakeFiles/renderscript-toolkit.dir/Resize_advsimd.S.o	6430ea80a3175d4
+1493	1688	1713277374	CMakeFiles/renderscript-toolkit.dir/ColorMatrix_advsimd.S.o	ed6ff140baf97d40
+1560	1690	1713277374	CMakeFiles/renderscript-toolkit.dir/YuvToRgb_advsimd.S.o	a13c46200c0adc0c
+3	1714	1713277374	CMakeFiles/renderscript-toolkit.dir/Blur.cpp.o	9f4310c5657f4fda
+790	1716	1713277374	CMakeFiles/renderscript-toolkit.dir/JniEntryPoints.cpp.o	68021405f5e23488
+903	1772	1713277374	CMakeFiles/renderscript-toolkit.dir/Lut3d.cpp.o	377d1553beb1a263
+1301	1887	1713277374	CMakeFiles/renderscript-toolkit.dir/RenderScriptToolkit.cpp.o	3c64623b96f3fdd6
+1250	1955	1713277374	CMakeFiles/renderscript-toolkit.dir/Resize.cpp.o	181c747bdebd5a08
+1303	2055	1713277374	CMakeFiles/renderscript-toolkit.dir/TaskProcessor.cpp.o	56b1c49151dd741c
+2055	2264	1713277374	/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/arm64-v8a/librenderscript-toolkit.so	2d056f3d37001c6a
+1	314	1713278485	/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/arm64-v8a/librenderscript-toolkit.so	2d056f3d37001c6a

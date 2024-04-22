@@ -1,0 +1,62 @@
+group 'com.example.tflite_camera_plugin'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.3.0'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    if (project.android.hasProperty("namespace")) {
+        namespace 'com.example.tflite_camera_plugin'
+    }
+
+    compileSdk 34
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 26
+    }
+
+    dependencies {
+        implementation 'org.tensorflow:tensorflow-android:1.13.1'
+        implementation 'org.tensorflow:tensorflow-lite:2.15.0'
+        implementation 'org.tensorflow:tensorflow-lite-task-vision:0.4.0'
+        implementation 'org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0'
+        implementation 'org.tensorflow:tensorflow-lite-gpu:2.9.0'
+        implementation 'org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2'
+    }
+
+    testOptions {
+        unitTests.all {
+            testLogging {
+               events "passed", "skipped", "failed", "standardOut", "standardError"
+               outputs.upToDateWhen {false}
+               showStandardStreams = true
+            }
+        }
+    }
+}
+
+dependencies {
+    implementation project(':renderscript-toolkit')
+}

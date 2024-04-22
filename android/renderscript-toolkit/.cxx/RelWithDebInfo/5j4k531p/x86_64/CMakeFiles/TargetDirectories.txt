@@ -1,0 +1,4 @@
+/Users/nazarov/IdeaProjects/tflite/android/renderscript-toolkit/.cxx/RelWithDebInfo/5j4k531p/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/nazarov/IdeaProjects/tflite/android/renderscript-toolkit/.cxx/RelWithDebInfo/5j4k531p/x86_64/CMakeFiles/edit_cache.dir
+/Users/nazarov/IdeaProjects/tflite/android/renderscript-toolkit/.cxx/RelWithDebInfo/5j4k531p/x86_64/CMakeFiles/cpufeatures.dir
+/Users/nazarov/IdeaProjects/tflite/android/renderscript-toolkit/.cxx/RelWithDebInfo/5j4k531p/x86_64/CMakeFiles/renderscript-toolkit.dir

@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "cameraViewCameraResolutionPreset": "Camera Resolution Preset",
+  "cameraViewDetectionFPSTitle": "Detection FPS",
+  "cameraViewDetectionLatencyTitle": "Detection latency",
+  "cameraViewInitializingModel": "Initializing Model",
+  "cameraViewStartButtonTitle": "Start",
+  "commonAppName": "TFLite",
+  "commonMillisecondsAbbr": "ms",
+  "imageInferenceScreenTitle": "Inference Results",
+  "languageName": "English"
+}

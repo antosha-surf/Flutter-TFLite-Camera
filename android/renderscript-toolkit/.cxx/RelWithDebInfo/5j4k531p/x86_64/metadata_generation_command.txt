@@ -1,0 +1,19 @@
+                    -H/Users/nazarov/IdeaProjects/tflite/android/renderscript-toolkit/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=/Users/nazarov/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/Users/nazarov/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/Users/nazarov/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/nazarov/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++17
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/nazarov/IdeaProjects/tflite/build/renderscript-toolkit/intermediates/cxx/RelWithDebInfo/5j4k531p/obj/x86_64
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-B/Users/nazarov/IdeaProjects/tflite/android/renderscript-toolkit/.cxx/RelWithDebInfo/5j4k531p/x86_64
+-GNinja
+                    Build command args: []
+                    Version: 2
